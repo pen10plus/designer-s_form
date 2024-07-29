@@ -1,0 +1,111 @@
+@media only screen and (max-width:427px){
+   
+    
+    .main {
+        background-color: rgba(240, 248, 255, 0.181);
+    height: 1319px;
+    width: 894px;
+    border-radius: 22px;
+    border: 0.6px solid black;
+    box-sizing: border-box;
+    margin-left: 19px;
+    margin-top: 54px;
+        
+form {
+    margin: 101px 62px;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+
+.input {
+    border-radius: 8px;
+    width: 27em;
+    height: 2.9em;
+    border: 1px;
+    padding-left: 2rem;
+    font-size: px;
+}
+
+.img1 {
+    position: relative;
+    height: 12em;
+    top: 6em;
+
+}
+
+.img1:hover {
+    z-index: 2;
+    box-shadow: 20px 20px 20px 20px rgba(0, 0, 0, 0.749);
+
+    transition: 0.5s;
+}
+
+.img2 {
+    POSITION: RELATIVE;
+    TOP: 13EM;
+    height: 15em;
+    right: 2em;
+
+
+
+}
+
+.img2:hover {
+     z-index: 2;
+
+    transition: 0.5s;
+}
+
+h1 {
+    position: absolute;
+    top: 90px;
+    margin-left: 71vw;
+    font-size: 48px;
+    width: 325px;
+    font-family: math;
+    text-decoration: underline;
+
+}
+
+.img3 {
+    height: 14em;
+    position: relative;
+    top: 20rem;
+    right: 25em;
+}
+
+.img3:hover {
+    z-index: 2;
+
+    transition: 0.5s;
+}
+
+img {
+    border: 4px solid white;
+}
+
+.imgs {
+    display: flex;
+    width: 27.3em;
+    box-sizing: border-box;
+    visibility: hidden;
+}
+
+
+
+.remember {
+    display: flex;
+    font-size: 15px;
+}
+
+.login {
+    position: relative;
+    left: 133px;
+    top: 20px;
+    padding: 3px 16px;
+    background-color: cornsilk;
+    border: none;
+    border-radius: 15px;
+}
+    
+    }}

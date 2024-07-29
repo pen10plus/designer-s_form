@@ -1,0 +1,18 @@
+@media only screen and (max-width:768px){
+   
+    
+    .main {
+        background-color: rgba(240, 248, 255, 0.181);
+        height: 668px;
+        width: 894px;
+        border-radius: 22px;
+        border: 0.6px solid black;
+        box-sizing: border-box;
+        display: flex;
+        margin-left: 15px;
+    
+    }
+    
+
+}
+
